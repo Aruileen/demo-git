@@ -8,3 +8,7 @@ Autrement c'est un test !
 Branche version1
 ================
 Uniquement visible dans version 1 !
+
+-Autre modification
+-Là aussi ! 
+-**2eme commit !**
