@@ -12,3 +12,9 @@ Uniquement visible dans version 1 !
 -Autre modification
 -Là aussi ! 
 -**2eme commit !**
+
+Version 1.1
+===========
+Modif
+
+Kikikukukre
